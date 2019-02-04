@@ -1,0 +1,15 @@
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\bin\Debug\Russian roulate askaran.exe.config
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\bin\Debug\Russian roulate askaran.exe
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\bin\Debug\Russian roulate askaran.pdb
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\obj\Debug\Russian roulate askaran.csprojAssemblyReference.cache
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\obj\Debug\Russian_roulate_askaran.Form1.resources
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\obj\Debug\Russian_roulate_askaran.MainForm.resources
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\obj\Debug\Russian_roulate_askaran.Properties.Resources.resources
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\obj\Debug\Russian roulate askaran.csproj.GenerateResource.cache
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\obj\Debug\Russian roulate askaran.csproj.CoreCompileInputs.cache
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\obj\Debug\Russian roulate askaran.exe
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\obj\Debug\Russian roulate askaran.pdb
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\bin\Debug\nunit.framework.dll
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\bin\Debug\nunit.framework.pdb
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\bin\Debug\nunit.framework.xml
+C:\Users\sunny\source\repos\Russian roulate askaran\Russian roulate askaran\obj\Debug\Russian roulate askaran.csproj.CopyComplete
